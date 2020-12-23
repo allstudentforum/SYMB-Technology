@@ -1,0 +1,34 @@
+#car{
+	width: 25px;	
+}
+#first{
+	margin-right: 50px;
+}
+#dash{
+	margin-top: 20px;
+	margin-left: 150px;
+}
+#grid{
+	border:1px solid #cecece;
+	border-color: red;
+	border-width: 2px;
+}
+#main-grid{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+#profile{
+	margin-left: 800px;
+}
+.cross{
+	float: right;
+}
+.same{
+	display: inline;
+}
+.bluebox{
+	border: 2px solid #cceeff;
+}
+.small{
+	font-size: 10px;
+}
